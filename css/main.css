@@ -135,6 +135,11 @@
   
   .text-secondary {
     color: #eece1a; }
+
+ .text-third {
+  color: #ff00ff;
+  font-size: 16px;
+  text-align: center; }
   
   main {
     padding: 4rem;
