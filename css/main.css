@@ -113,7 +113,9 @@
   h3 {
     margin: 0;
     font-weight: 400; }
-    h1.lg-heading,
+    h1.lg-heading {
+      font-size: 5.5rem;
+    }
     h2.lg-heading,
     h3.lg-heading {
       font-size: 6rem; }
